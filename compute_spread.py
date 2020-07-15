@@ -1,4 +1,4 @@
-from api import CoinDCX
+from client import CoinDCX
 from orderbook import Orderbook
 
 
