@@ -8,7 +8,7 @@ class Orderbook:
 
     def init(self, dcx_orderbook: dict):
         """
-        Initializes bids sorted in asc and asks sorted in desc
+        Initializes bids sorted in desc and asks sorted in asc
             bids: high to low
             asks: low to high
         """
